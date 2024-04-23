@@ -1,0 +1,13 @@
+
+
+train: /content/drive/MyDrive/sign_train/Imgtrain/imgsign8
+val: /content/drive/MyDrive/sign_train/Imgtrain/imgsign8
+
+
+# Classes
+nc: 6 
+names: ['Construction_signs', 'GuidePost_signs', 'Regulatory_signs',
+        'Soi/Road_signs', 'unidentified_signs', 'warning_signs']
+
+
+
